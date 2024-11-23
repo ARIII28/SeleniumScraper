@@ -12,7 +12,7 @@ Are you tired of constantly refreshing product pages to check if the price has d
 ## Key Features:
 - **Track product prices**: Monitor prices from your chosen online store.
 - **Automatic logging**: It tracks prices and saves them in a CSV file without you lifting a finger.
-- **Price threshold alerts**: Set your desired price and get notified when the product drops (coming soon: email notifications using SMTP!).
+- **Price threshold alerts**: Set your desired price and get notified when the product drops (email notifications using SMTP!).
 - **Runs in the background**: It works silently while you go on with your day.
 
 ## How to Install:
