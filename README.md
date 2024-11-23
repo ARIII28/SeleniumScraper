@@ -1,6 +1,6 @@
 # Selenium Web Scraping Automation: Price Tracking and Data Logging
 
-Are you tired of constantly refreshing product pages to check if the price has dropped? **Selenium Web Scraping Automation** is here to save the day! This Python-based tool automatically tracks product prices on your favorite e-commerce sites and logs them into a neat CSV file, so you can stop worrying about missing a deal.
+**Selenium Web Scraping Automation** is a Python-based tool that automatically tracks product prices from e-commerce websites and logs the data into a CSV file. It eliminates the need for constantly refreshing pages to catch price changes, helping you stay on top of deals effortlessly.
 
 ## Tech Stack
 - **Python**: The versatile language that runs the show.
